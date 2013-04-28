@@ -2,7 +2,7 @@
 
 ranwhen is a Python script that graphically shows **in your terminal** when your system was running in the past. Have a look:
 
-![Screenshot](../blob/master/Screenshot.png?raw=true)
+![Screenshot](Screenshot.png?raw=true)
 
 
 # Requirements
