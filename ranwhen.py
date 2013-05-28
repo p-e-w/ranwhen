@@ -4,7 +4,7 @@
 #
 # Requirements:
 # - *nix system with last(1) installed and supporting the -R and -F flags
-# - Python 3
+# - Python >= 3.2
 # - Terminal emulator with support for Unicode and xterm's 256 color mode
 #
 #

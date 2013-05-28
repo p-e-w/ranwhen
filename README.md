@@ -8,7 +8,7 @@ ranwhen is a Python script that graphically shows **in your terminal** when your
 # Requirements
 
 * *nix system with [last(1)](http://linux.die.net/man/1/last) installed and supporting the -R and -F flags
-* [Python 3](http://www.python.org/)
+* [Python >= 3.2](http://www.python.org/)
 * Terminal emulator with support for Unicode and xterm's 256 color mode
 
 The above requirements should be fulfilled by default on the majority of modern Linux distributions, where the only thing that needs to be done is usually to install Python 3.
